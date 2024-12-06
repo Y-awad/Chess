@@ -1,0 +1,9 @@
+chesscore\ChessBoard.class
+chesscore\Piece.class
+chesscore\PieceColor.class
+chesscore\Square.class
+chesscore\Chess.class
+chesscore\Pawn.class
+chesscore\PieceType.class
+chesscore\King.class
+chesscore\Bishop.class
